@@ -11,7 +11,7 @@ const Header: React.FC = () => {
         <div className="flex items-center gap-6 flex-1">
           <Link href="/" className="flex items-center gap-2 transition-opacity hover:opacity-80">
             <Image
-              src="/logo.png"
+              src="https://anhthoai1133.github.io/web-demo/logo.png"
               alt="Logo"
               width={32}
               height={32}

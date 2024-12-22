@@ -33,7 +33,7 @@ export default function GameDetail() {
           <div className="relative w-full md:w-1/3 aspect-square">
             <div className="absolute inset-0 bg-gradient-to-tr from-blue-600/50 to-indigo-600/50 rounded-2xl">
               <Image 
-                src="/game-preview.png" 
+                src="https://anhthoai1133.github.io/web-demo/game-preview.png"
                 alt="Game Preview"
                 width={400}
                 height={400}

@@ -3,9 +3,10 @@ const nextConfig = {
   output: 'export',
   images: {
     unoptimized: true,
+    domains: ['anhthoai1133.github.io'],
   },
-  basePath: '/your-repo-name',
-  assetPrefix: '/your-repo-name',
+  basePath: '/web-demo',
+  assetPrefix: '/web-demo',
 }
 
 module.exports = nextConfig 
